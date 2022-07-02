@@ -9,4 +9,6 @@ public interface Operacoes {
 
      void imprimirExtrato();
 
+     void operacoes();
+
 }

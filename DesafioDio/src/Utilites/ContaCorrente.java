@@ -8,7 +8,8 @@ public class ContaCorrente extends Conta {
     }
     @Override
     public void imprimirExtrato() {
-        System.out.println("---\tConta Corrente\t---");
+        System.out.println("************************************");
+        System.out.println("******* Extrato Bancario ***********");
         super.infosComuns();
     }
 }
